@@ -1,0 +1,14 @@
+name: nodebb-plugin-sso-oauth
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/ec2750ab-5024-48d6-b327-bd9012fdf67f
+description: NodeBB Plugin that allows users to login/register via any configured OAuth provider.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
